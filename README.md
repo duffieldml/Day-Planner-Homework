@@ -1,1 +1,1 @@
-# Day-Planner-Homework
+# day-planner
